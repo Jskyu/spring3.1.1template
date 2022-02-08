@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/31316339/how-to-solve-maven-2-6-resource-plugin-dependency
